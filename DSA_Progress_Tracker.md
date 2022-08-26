@@ -1,30 +1,30 @@
 ## INTERVIEW PREP ROADMAP 
 
 - [ ] Complete Git & GitHub Introduction
-- [ ] Intro. to Programming
-  - [ ] Types of Languages
-  - [ ] Memory of management
-- [ ] Flow of Program
-  - [ ] flowchars
-  - [ ] Psudocode
-- [ ] Introduction to Java
-  - [ ] Introduction
-  - [ ] How it works
-  - [ ] Setup Installation
-  - [ ] Input & Output in Java
-  - [ ] Conditionals & Loops in Java
-      - [ ] If Else
-      - [ ] Loops 
-      - [ ] Switch Stmts.
-  - [ ] Data Types
-  - [ ] Coding Best Practices
+- [x] Intro. to Programming
+  - [x] Types of Languages
+  - [x] Memory of management
+- [x] Flow of Program
+  - [x] flowchars
+  - [x] Psudocode
+- [x] Introduction to Java
+  - [x] Introduction
+  - [x] How it works
+  - [x] Setup Installation
+  - [x] Input & Output in Java
+  - [x] Conditionals & Loops in Java
+      - [x] If Else
+      - [x] Loops 
+      - [x] Switch Stmts.
+  - [x] Data Types
+  - [x] Coding Best Practices
 
-- [ ] Functions
-    - [ ] Introduction
-    - [ ] Scope in Java
-    - [ ] Shadowing
-    - [ ] Variable Length Arguments
-    - [ ] Overloading
+- [x] Functions
+    - [x] Introduction
+    - [x] Scope in Java
+    - [x] Shadowing
+    - [x] Variable Length Arguments
+    - [x] Overloading
 
 - [ ] Arrays
     - [ ] Introduction
