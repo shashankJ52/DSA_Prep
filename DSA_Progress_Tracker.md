@@ -24,7 +24,7 @@
     - [x] Scope in Java
     - [x] Shadowing
     - [x] Variable Length Arguments
-    - [x] Overloading
+    - [ ] Overloading
 
 - [ ] Arrays
     - [ ] Introduction
