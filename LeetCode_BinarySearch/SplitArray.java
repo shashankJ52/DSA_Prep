@@ -19,7 +19,7 @@ public class SplitArray {
             minVal = Math.max(minVal, nums[i]);
         }
 
-        // Apply Binary Search
+        // 2.Apply Binary Search
         int result = specialBS(nums, minVal, maxVal, m);
         return result;
     }
@@ -42,7 +42,7 @@ public class SplitArray {
                 }
             }
 
-            // 2. Compare totalPieces and M
+            // 3. Compare totalPieces and M
             if (totalPieces <= m) {
                 high = midVal;
             } else {
